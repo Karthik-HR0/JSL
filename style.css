@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+input {
+    width: 90%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+ul {
+    max-height: 150px;
+    overflow-y: auto;
+    list-style: none;
+    padding: 0;
+}
+
+#author {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+#author a {
+    color: blue;
+    text-decoration: none;
+}
+
+#author a:hover {
+    text-decoration: underline;
+}
