@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "JavaScript File Finder",
+    "name": "JSL",
     "version": "1.0",
     "description": "Finds all JavaScript (.js) files on the current webpage.",
     "permissions": ["scripting", "activeTab", "clipboardWrite"],
