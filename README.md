@@ -9,6 +9,8 @@
 <p>  
   
   **_A Chrome extension that collects all JavaScript (`.js`) links from a webpage with a single click!_**  
+
+  <kbd> THIS IS IN BETA VERSION</kbd>
 </p>  
 
 <div>
@@ -16,7 +18,7 @@
   <a href="#installation">`installation`</a>
   <a href="#setup">`setup`</a>
   <a href="#features">`features`</a>
-  <a href="#using">`usage`</a>
+  <a href="#usage">`usage`</a>
   <a href="#license">`license`</a>
 <!--  <a href="#donate">`donate`</a> -->
   
@@ -78,6 +80,17 @@
 
 - Click the Javascript Link Finder extension icon in the toolbar
 
-- The extension will scan the current webpage and extract all .js links
+
+
+- The extension will scan the current
+ webpage and extract all .js links
 
 - Click "Copy All" to copy all collected JavaScript links
+
+
+## `License`
+
+This project is licensed under the Mozilla Public License Version 2.0 - see the [`LICENSE`](https://github.com/Karthik-HR0/LICENSE) file for details.
+
+<br>
+<br>
