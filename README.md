@@ -1,4 +1,4 @@
-# **Fusion-XP JS Collector**  
+# **Javascript Links Finder**  
 
 <div align="center">
   <img src="https://github.com/Karthik-HR0/JavaScript-File-Finder-/blob/main/icon128.png" alt="JS EXTRACTOR" /> 
@@ -11,14 +11,16 @@
   **_A Chrome extension that collects all JavaScript (`.js`) links from a webpage with a single click!_**  
 </p>  
 
-<div>  
-  <a href="#installation">`installation`</a>  
-  <a href="#setup">`setup`</a>  
-  <a href="#features">`features`</a>  
-  <a href="#usage">`usage`</a>  
-  <a href="#license">`license`</a>  
-</div>  
-
+<div>
+    
+  <a href="#installation">`installation`</a>
+  <a href="#setup">`setup`</a>
+  <a href="#features">`features`</a>
+  <a href="#using">`usage`</a>
+  <a href="#license">`license`</a>
+<!--  <a href="#donate">`donate`</a> -->
+  
+  </div>
 </div>  
 
 ---
@@ -44,3 +46,24 @@
    ```bash
    # Clone the repository  
    git clone https://github.com/Karthik-HR0/js-collector.git
+<br>
+<br>
+
+
+## `Setup`
+
+#### ⇨ Loading in Chrome
+
+1. Open Chrome and navigate to `chrome://extensions/`
+2. Enable "Developer mode" in the top right corner
+3. Click "Load unpacked"
+4. Select the directory containing the extension files:
+  
+5. Pin the extension (optional)
+
+#### ⇨ Verify Installation
+- Look for the JS icon in your Chrome toolbar
+- Right-click on any form field to see the "Javascript link finder" option
+
+<br>
+<br>
