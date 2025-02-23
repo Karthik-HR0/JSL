@@ -1,4 +1,4 @@
-# **Javascript Links Finder**  
+
 
 <div align="center">
   <img src="https://github.com/Karthik-HR0/JavaScript-File-Finder-/blob/main/icon128.png" alt="JS EXTRACTOR" /> 
