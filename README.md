@@ -47,7 +47,7 @@
 1. **Download the Extension**  
    ```bash
    # Clone the repository  
-   git clone https://github.com/Karthik-HR0/js-collector.git
+   git clone https://github.com/Karthik-HR0/JSL.git
 <br>
 <br>
 
