@@ -58,6 +58,8 @@
 2. Enable "Developer mode" in the top right corner
 3. Click "Load unpacked"
 4. Select the directory containing the extension files:
+
+
   
 5. Pin the extension (optional)
 
@@ -67,3 +69,15 @@
 
 <br>
 <br>
+
+
+
+## `Usage`
+
+⇨ Collecting JavaScript Links
+
+- Click the Javascript Link Finder extension icon in the toolbar
+
+- The extension will scan the current webpage and extract all .js links
+
+- Click "Copy All" to copy all collected JavaScript links
